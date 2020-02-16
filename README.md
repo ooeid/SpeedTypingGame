@@ -1,8 +1,11 @@
 
 ## How Fast You Can Type !?
-
-A small web app game that tests how fast your typing by counting how many words you entere
-you can acess my game from [here](https://serene-fortress-66777.herokuapp.com/)
+<div align="center">
+  <img align="center" src="ezgif.com-video-to-gif.gif" width="300">
+ </div>
+ 
+A small web app game that tests how fast your typing is by counting how many words you can entere. </br>  
+you can acess the game from [here](https://serene-fortress-66777.herokuapp.com/)
 
 ### `what I used`
 
@@ -10,4 +13,4 @@ you can acess my game from [here](https://serene-fortress-66777.herokuapp.com/)
 - Press Start 2P font 
 - heroku! 
 
-<img align="center" src="ezgif.com-video-to-gif.gif" width="300">
+
