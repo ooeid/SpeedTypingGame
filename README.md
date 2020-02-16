@@ -10,4 +10,4 @@ you can acess my game from [here](https://serene-fortress-66777.herokuapp.com/)
 - Press Start 2P font 
 - heroku! 
 
-<img src="ezgif.com-video-to-gif.gif" width="300">
+<img align="center" src="ezgif.com-video-to-gif.gif" width="300">
