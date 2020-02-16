@@ -13,6 +13,6 @@ you can acess the game from [here](https://serene-fortress-66777.herokuapp.com/)
 
 - React Hooks 
 - Press Start 2P font 
-- heroku! 
+- Heroku! 
 
 
