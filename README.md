@@ -7,7 +7,7 @@
  <br/>
  
 A small web app game that tests how fast your typing is by counting how many words you can entere.  
-you can acess the game from [here](https://serene-fortress-66777.herokuapp.com/)
+you can acess the game from [here](https://shrouded-cove-69684.herokuapp.com/)
 
 ### `what I used`
 
